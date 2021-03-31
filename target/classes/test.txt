@@ -1,0 +1,2 @@
+Ceci est  un fichier de
+qui doit être en majuscule
